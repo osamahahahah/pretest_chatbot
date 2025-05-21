@@ -48,7 +48,7 @@ Buka browser dan akses [http://localhost:3001](http://localhost:3001)
 
 ## ℹ️ Catatan
 - File `.env` **tidak ikut ter-push ke GitHub**. Anda harus membuat dan mengisi sendiri.
-- Model AI yang digunakan gratis, namun setiap user wajib punya API key sendiri (proses daftar & ambil key gratis dan cepat).
+- Model AI yang digunakan gratis, namun setiap user wajib punya API key sendiri
 
 
 ---
