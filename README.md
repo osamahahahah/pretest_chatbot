@@ -7,7 +7,7 @@
 ### 1. Clone Repository
 Clone project ini ke komputer Anda:
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
+git clone https://github.com/osamahahahah/pretest_chatbot.git
 
 ```
 
